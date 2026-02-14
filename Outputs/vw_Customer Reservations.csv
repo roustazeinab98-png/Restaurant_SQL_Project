@@ -1,0 +1,4 @@
+﻿ReservationID,CustomerName,TableID,Seats,ReservationDate,NumberOfGuests,Status
+1,Ali Reza,1,4,00:00.0,4,Confirmed
+2,Sara Ahmadi,2,2,30:00.0,2,Pending
+3,Ali Reza,2,2,30:00.0,2,Pending

@@ -1,0 +1,9 @@
+﻿OrderID,CustomerName,OrderType,DeliveryAddress,OrderDate,ItemID,MenuItem,MenuCategory,Quantity,ItemPrice,TotalItemAmount,TableID,TableSeats,ReservationDate,NumberOfGuests,ReservationStatus,OrderTotal
+1,Ali Reza,Dine-In,NULL,03:33.0,1,Pizza Margherita,Main Course,1,150000,150000,1,4,00:00.0,4,Confirmed,0
+1,Ali Reza,Dine-In,NULL,03:33.0,1,Pizza Margherita,Main Course,1,150000,150000,1,4,00:00.0,4,Confirmed,0
+1,Ali Reza,Dine-In,NULL,03:33.0,3,Coke,Beverage,2,20000,40000,1,4,00:00.0,4,Confirmed,0
+1,Ali Reza,Dine-In,NULL,03:33.0,3,Coke,Beverage,2,20000,40000,1,4,00:00.0,4,Confirmed,0
+2,Sara Ahmadi,Online-Delivery,"Tehran, Street 2",03:33.0,2,Cheeseburger,Main Course,1,120000,120000,NULL,NULL,NULL,NULL,NULL,0
+2,Sara Ahmadi,Online-Delivery,"Tehran, Street 2",03:33.0,2,Cheeseburger,Main Course,1,120000,120000,NULL,NULL,NULL,NULL,NULL,0
+4,Ali Reza,Dine-In,NULL,36:02.9,3,Coke,Beverage,2,20000,40000,1,4,00:00.0,4,Confirmed,40000
+5,Sara Ahmadi,Online-Delivery,"Tehran, Street 5",50:27.3,2,Cheeseburger,Main Course,1,120000,120000,NULL,NULL,NULL,NULL,NULL,120000

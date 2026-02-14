@@ -1,0 +1,6 @@
+﻿OrderID,CustomerName,OrderType,DeliveryAddress,TotalAmount,OrderDate
+1,Ali Reza,Dine-In,NULL,0,03:33.0
+2,Sara Ahmadi,Online-Delivery,"Tehran, Street 2",0,03:33.0
+3,Ali Reza,Dine-In,NULL,NULL,57:13.6
+4,Ali Reza,Dine-In,NULL,40000,36:02.9
+5,Sara Ahmadi,Online-Delivery,"Tehran, Street 5",120000,50:27.3
